@@ -1,5 +1,5 @@
 # pythonclub
-Repository of code from python club projects
+*Repository of code from python club projects*
 
 
 
